@@ -1,0 +1,8 @@
+﻿  Stations.cpp
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 5\Stations\Stations.cpp(141,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 5\Stations\Stations.cpp(170,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 377 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MS-Stations.vcxproj -> C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 5\Stations\x64\Release\Stations.exe

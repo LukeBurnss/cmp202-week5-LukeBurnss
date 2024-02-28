@@ -1,0 +1,4 @@
+﻿  Stations.cpp
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 5\Stations\Stations.cpp(137,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 5\Stations\Stations.cpp(166,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1151,5): error MSB6006: "link.exe" exited with code 1.
